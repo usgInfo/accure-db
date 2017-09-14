@@ -1,0 +1,66 @@
+use irheum
+
+db.org.insert([
+{
+name: 'vinod',
+phone1: '9876543234',
+phone2: '7897654324',
+email1: 'vkumar@gmail.com',
+email2: 'vkumar@accuresoftware.com',
+address1: '1st Cross Rd, Rt Nagar Mian road, opp to food world, Bengaluru, Karnataka 560032',
+address2: '1st Cross Rd, Rt Nagar Mian road, opp to food world, Bengaluru, Karnataka 560032',
+city: 'Bang',
+state: 'Karnataka',
+country: 'India',
+},
+{
+name: 'amit',
+phone1: '9876543234',
+phone2: '7897654324',
+email1: 'akumar@gmail.com',
+email2: 'akumar@accuresoftware.com',
+address1: '1st Cross Rd, Rt Nagar Mian road, opp to food world, Bengaluru, Karnataka 560032',
+address2: '1st Cross Rd, Rt Nagar Mian road, opp to food world, Bengaluru, Karnataka 560032',
+city: 'Bang',
+state: 'Karnataka',
+country: 'India',
+},
+{
+name: 'kalyan',
+phone1: '9876543234',
+phone2: '7897654324',
+email1: 'kkumar@gmail.com',
+email2: 'kkumar@accuresoftware.com',
+address1: '1st Cross Rd, Rt Nagar Mian road, opp to food world, Bengaluru, Karnataka 560032',
+address2: '1st Cross Rd, Rt Nagar Mian road, opp to food world, Bengaluru, Karnataka 560032',
+city: 'Bang',
+state: 'Karnataka',
+country: 'India',
+
+},
+{
+name: 'mani',
+phone1: '9876543234',
+phone2: '7897654324',
+email1: 'mkumar@gmail.com',
+email2: 'mkumar@accuresoftware.com',
+address1: '1st Cross Rd, Rt Nagar Mian road, opp to food world, Bengaluru, Karnataka 560032',
+address2: '1st Cross Rd, Rt Nagar Mian road, opp to food world, Bengaluru, Karnataka 560032',
+city: 'Bang',
+state: 'Karnataka',
+country: 'India',
+},
+{
+name: 'ravi',
+phone1: '9876543234',
+phone2: '7897654324',
+email1: 'rkumar@gmail.com',
+email2: 'rkumar@accuresoftware.com',
+address1: '1st Cross Rd, Rt Nagar Mian road, opp to food world, Bengaluru, Karnataka 560032',
+address2: '1st Cross Rd, Rt Nagar Mian road, opp to food world, Bengaluru, Karnataka 560032',
+city: 'Bang',
+state: 'Karnataka',
+country: 'India',
+
+}
+])

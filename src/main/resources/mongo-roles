@@ -1,0 +1,22 @@
+use irheum
+
+db.roles.insert([
+{
+
+rolename: 'admin',
+screens: '1',
+},
+{
+rolename: 'doctor',
+screens: '2',
+},
+{
+rolename: 'patient',
+screens: '3',
+},
+{
+rolename: 'nurse',
+screens: '4',
+
+}
+])
